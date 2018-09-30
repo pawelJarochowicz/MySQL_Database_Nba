@@ -22,6 +22,7 @@ public class DatabaseNba {
         statement.executeUpdate("INSERT INTO coach(coach_id,first_name,last_name,team_id,age) VALUES(null,'Brad','Stevens','1','41'),(null,'Tyronn','Lue','2','41'),(null,'Rick','Carlisle','3','59'),(null,'Mike','Malone','4','47'),(null,'Steve','Kerr','5','52'),(null,'Luke','Walton','6','38'),(null,'Brett','Brown','7','57'),(null,'Igor','Kokoskov','8','46'),(null,'Nick','Nurse','9','51'),(null,'Quin','Snyder','10','51');");
         statement.executeUpdate("load data infile \"C:\\\\ProgramData\\\\MySQL\\\\MySQL Server 8.0\\\\Uploads\\\\coach_stats.txt\"\ninto table coach_stats;");
         statement.executeUpdate("load data infile \"C:\\\\ProgramData\\\\MySQL\\\\MySQL Server 8.0\\\\Uploads\\\\team_stats.txt\"\ninto table team_stats;");
+        statement.executeUpdate("load data infile \"C:\\\\ProgramData\\\\MySQL\\\\MySQL Server 8.0\\\\Uploads\\\\player.txt\"\ninto table player FIELDS TERMINATED BY ',';");
 
 
 

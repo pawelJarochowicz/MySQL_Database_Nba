@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6137c2ab-9bb7-494f-8340-1da6a82b21b3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/nba/databa/jdbc/mysql/DatabaseNba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/nba/databa/jdbc/mysql/DatabaseNba.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="DatabaseNba.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/nba/databa/jdbc/mysql/DatabaseNba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="20" column="637" selection-start-line="20" selection-start-column="637" selection-end-line="20" selection-end-column="637" />
+            <state relative-caret-position="303">
+              <caret line="24" column="144" selection-start-line="24" selection-start-column="144" selection-end-line="24" selection-end-column="144" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -242,13 +241,13 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.49924356" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="HDInsight Spark Submission" order="7" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
       <window_info anchor="bottom" id="Remote Spark Job in Cluster" order="7" />
@@ -566,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/nba/databa/jdbc/mysql/DatabaseNba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="20" column="637" selection-start-line="20" selection-start-column="637" selection-end-line="20" selection-end-column="637" />
+        <state relative-caret-position="303">
+          <caret line="24" column="144" selection-start-line="24" selection-start-column="144" selection-end-line="24" selection-end-column="144" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
